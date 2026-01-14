@@ -22,3 +22,9 @@ A Python tool to fetch stock data (Yahoo Finance), calculate returns/volatility,
 - Sharpe & Sortino Ratios
 - Rolling Volatility
 - Matplotlib visualizations
+
+## 🖼️ Example Output
+
+![Cumulative Returns](output/cumulative_returns.png)
+![Rolling Volatility](output/rolling_volatility.png)
+![Returns Distribution](output/returns_distribution.png)
