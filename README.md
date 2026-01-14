@@ -1,6 +1,6 @@
 Usually i don't concern myself for adding a description but here we are
 # Financial Analyzer 
-ths is a partially reliable Python tool to fetch stock data (taken from Yahoo Finance), calculates returns/volatility, and visualize performance with fancy graphs beacuse why not.
+this is a partially reliable Python tool to fetch stock data (taken from Yahoo Finance), calculates returns/volatility, and visualize performance with fancy graphs beacuse why not.
 
 # Follow these steps to start your painful journey
 
