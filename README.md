@@ -21,7 +21,7 @@ this is a partially reliable Python tool to fetch stock data (taken from Yahoo F
 - Rolling Volatility
 - Matplotlib visualizations
 
-## If things go well, this will be the expected output
+## Example output ss
 
 ![Cumulative Returns](output/cumulative_returns.png)
 ![Rolling Volatility](output/rolling_volatility.png)
